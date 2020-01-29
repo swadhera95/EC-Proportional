@@ -1,0 +1,13 @@
+This project looks at how the Electoral College would have turned out in Presidential Elections from 1976-2016 if states awarded electors proportionally. 
+
+Included Files: 
+- 1976-2016-president.csv
+- EV Master.csv 
+- EV_Real.csv 
+- EC D'Hondt.R 
+
+File Descriptions: 
+  1976-2016-president.csv contains the results for all Presidential elections from 1976 to 2016 by state. 
+  EV Master.csv contains the number of total electoral votes each state had in each year 
+  EV_Real.csv contains the actual electoral college results by candidate for each year. This dataset does NOT include Faithless Electors. 
+  EC D'Hondt.R is an r script used to generate the results of the proportional representation experiment and analyze those results. 
